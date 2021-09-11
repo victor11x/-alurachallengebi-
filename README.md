@@ -34,7 +34,7 @@
 <h2> Resultados </h2>
 <p align="center">
   <ol>
-    <li>Dashboard de Logística <a href="https://app.powerbi.com/groups/me/reports/d43a1287-9265-441c-a1bc-4dad009e9528/ReportSection682a7ca033cccc5a6091" target="_blank">link</a></li>
+    <li>Dashboard de Logística <a href="https://app.powerbi.com/view?r=eyJrIjoiNDU0M2RmYzItOGQ5Yy00ZTliLThiODAtOTgwYjAzYWIyYmRjIiwidCI6IjcxZjdlMTgwLTNkMWMtNGQxYS1hZDhkLWU2YWYyZTFkYTk5NSJ9" target="_blank">link</a></li>
 
  <img src="https://github.com/victor11x/-alurachallengebi-/blob/main/log.PNG" width="500" position="center"/></a>
 </p>
