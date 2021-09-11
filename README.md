@@ -35,7 +35,7 @@
 <p>
   <ol>
     <li>Dashboard de Logística <a href="https://app.powerbi.com/groups/me/reports/d43a1287-9265-441c-a1bc-4dad009e9528/ReportSection682a7ca033cccc5a6091" target="_blank">link</a></li>
-    <img src="log.png" float="center" width=200px/>
+    <img src="log.png" float="center"/>
 
 
  <h2> Ferramentas utilizadas </h2>
