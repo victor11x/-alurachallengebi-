@@ -32,7 +32,7 @@
  <p> As bases estão disponíveis nesse <a href="https://drive.google.com/drive/folders/1saKsmnW4FvOw_MRG363pNEYFbFpGw5hf?usp=sharing" target="_blank">link</a> </p>
 
 <h2> Resultados </h2>
-<p>
+<p align="center">
   <ol>
     <li>Dashboard de Logística <a href="https://app.powerbi.com/groups/me/reports/d43a1287-9265-441c-a1bc-4dad009e9528/ReportSection682a7ca033cccc5a6091" target="_blank">link</a></li>
 
