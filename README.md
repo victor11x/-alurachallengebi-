@@ -30,7 +30,13 @@
     <li> <b>Tabela estoque</b> - contém o registro de estoque dos produtos por mês </li>
   </ul>
  <p> As bases estão disponíveis nesse <a href="https://drive.google.com/drive/folders/1saKsmnW4FvOw_MRG363pNEYFbFpGw5hf?usp=sharing" target="_blank">link</a> </p>
- 
+
+<h2> Resultados </h2>
+<p>
+  <ol>
+    <li>Dashboard de Logística <a href="https://app.powerbi.com/groups/me/reports/d43a1287-9265-441c-a1bc-4dad009e9528/ReportSection682a7ca033cccc5a6091" target="_blank">link</a></li>
+
+
  <h2> Ferramentas utilizadas </h2>
  <p>Foi utilizado Power BI na construção dos graficos</p>
  <p>Utilizei ferremanta Figma na preparação do backgrouds, layout e icones</p>
