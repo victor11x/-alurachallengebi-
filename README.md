@@ -29,3 +29,9 @@
     <li> <b>Tabela veículos</b> - contém veículos registrados que fazem o transporte dos produtos </li>
     <li> <b>Tabela estoque</b> - contém o registro de estoque dos produtos por mês </li>
   </ul>
+ <p> As bases estão disponíveis nesse <a href="https://drive.google.com/drive/folders/1saKsmnW4FvOw_MRG363pNEYFbFpGw5hf?usp=sharing" target="_blank">link</a> </p>
+ 
+ <h2> Ferramentas utilizadas </h2>
+ <p>Foi utilizado Power BI na construção dos graficos</p>
+ <p>Utilizei ferremanta Figma na preparação do backgrouds, layout e icones</p>
+ 
